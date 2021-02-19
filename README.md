@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Ivana</h1>
+<h1 align="center">Hola 👋, soy Ivana!</h1>
 <h3 align="center">Desarrolladora Frontend Junior :woman_technologist:</h3>
 
 - 🌱 Me encuentro aprendiendo **React native**
