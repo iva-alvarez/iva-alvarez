@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Ivana</h1>
-<h3 align="center">Desarrolladora Frontend :woman_technologist:</h3>
+<h3 align="center">Desarrolladora Frontend Junior :woman_technologist:</h3>
 
 - 🌱 Me encuentro aprendiendo **React native**
 
-- 💬 preguntame sobre **react, javaScript, TailwindCss**
+- 💬  Puedes preguntame sobre **react, javaScript, TailwindCss**
 
-- ⚡ Fun fact **Estudio biología y me gusta el desarrollo web :speak_no_evil:**
+- ⚡ Fun fact **Estudio biología y me gusta el desarrollo web y móvil :speak_no_evil:**
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
