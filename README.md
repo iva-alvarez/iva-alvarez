@@ -1,5 +1,5 @@
 
-![alt="banner"](https://raw.githubusercontent.com/iva-alvarez/iva-alvarez/master/IvanaAlvarez.jpg)
+![alt=banner](https://raw.githubusercontent.com/iva-alvarez/iva-alvarez/master/IvanaAlvarez.jpg)
 <h1 align="center">Hola 👋, soy Ivana!</h1>
 <h3 align="center">Desarrolladora Frontend Junior :woman_technologist:</h3>
 
