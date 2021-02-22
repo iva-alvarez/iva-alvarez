@@ -1,4 +1,4 @@
-<img aling= "center "![Ivana Alvarez](https://user-images.githubusercontent.com/69218341/108777464-356fbb80-753a-11eb-97f0-914c6a9197b9.jpg) />
+<img aling= "center " src="![Ivana Alvarez](https://user-images.githubusercontent.com/69218341/108777464-356fbb80-753a-11eb-97f0-914c6a9197b9.jpg)" />
 
 <h1 align="center">Hola 👋, soy Ivana!</h1>
 <h3 align="center">Desarrolladora Frontend Junior :woman_technologist:</h3>
